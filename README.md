@@ -1,19 +1,32 @@
 # nlp-code-assistant
-Intelligent Python Code Assistant - NLP Internship Project
+# 🤖 Python Code Assistant - NLP System
 
-An integrated AI system combining RAG, LLM agents, and quality metrics
-to generate and explain Python code. Built with LangGraph, ChromaDB, and Gradio.
+An intelligent AI assistant that generates and explains Python code using 
+state-of-the-art NLP techniques.
 
-Features:
-- RAG System with Vector Database (ChromaDB)
-- Intent-based Routing with LangGraph
-- Real-time Code Generation using Groq LLM
-- Quality Metrics & Evaluation (Precision, Recall, Relevancy)
-- Interactive Web UI with Gradio
-- Production-ready Deployment
+## 📋 Project Overview
 
-Tech Stack:
-Python | LangGraph | LangChain | Groq API | ChromaDB | 
-SentenceTransformers | Gradio | NumPy
+This project integrates three advanced NLP systems:
+- **Week 3**: RAG System with Vector Database
+- **Week 4**: Quality Metrics & Evaluation
+- **Week 5**: LangGraph State Machine Agent
 
-Project Duration: Week 3-5 (NLP Internship @ Cellula Technologies)
+## ✨ Features
+
+✅ **Code Generation**: Write Python code from natural language requests
+✅ **Code Explanation**: Detailed explanations of Python concepts
+✅ **RAG Integration**: Semantic search for relevant examples
+✅ **Quality Metrics**: Precision, Recall, Relevancy scores
+✅ **Web Interface**: Interactive Gradio UI with 3 tabs
+✅ **Live Deployment**: Public access via Gradio
+
+## 🛠️ Tech Stack
+
+- **AI/ML**: LangGraph, LangChain, Groq LLM
+- **Database**: ChromaDB (Vector Database)
+- **Embeddings**: SentenceTransformers
+- **UI**: Gradio
+- **Languages**: Python 3.x
+
+## 📦 Installation
+
